@@ -21,4 +21,5 @@ I will try to add to this list as time permits<p>
   <li>linux16 - introduction to bash scripts - Brief introduction to Bash scripting</li>
   <li>linux17 - bash scripting basics - Bash Scripting basics (+)</li>
   <li>linux18 - working with zip file - How to unzip your ... files</li>
+  <li>linux19 - symbolic links - How to set up and use Symbolic links in Linux</li>
 </ul>
